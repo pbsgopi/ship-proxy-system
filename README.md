@@ -38,7 +38,7 @@ Follow these steps to get the proxy system up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/ship-proxy-system.git](https://github.com/your-username/ship-proxy-system.git)
+git clone [https://github.com/pbsgopi/ship-proxy-system.git](https://github.com/pbsgopi/ship-proxy-system.git)
 cd ship-proxy-system
 ```
 
